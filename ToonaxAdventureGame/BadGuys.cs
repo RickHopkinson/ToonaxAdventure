@@ -1,6 +1,6 @@
 namespace ToonaxAdventureGame
 {
-    public class BadGuys
+    public class Enemy
     {
         
     }
